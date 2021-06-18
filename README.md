@@ -2,6 +2,8 @@
 
 This feature highlights all the textual matches of token at the caret location in the Editor.
 
+![Preview](https://github.com/sboulema/MatchMargin/blob/main/src/Resources/Preview.png)
+
 As an example, when the focus is on a variable, all usages of that variable are highlighted and a marker is placed on the vertical scrollbar to indicate the position on the page where that variable is used.
 
 ## Ported
