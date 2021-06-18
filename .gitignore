@@ -1,0 +1,5 @@
+/src/bin
+/src/obj
+/.vs
+/src/.vs
+/src/*.user
