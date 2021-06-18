@@ -72,7 +72,6 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.0.1619-preview1" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MatchMargin.ico" />
     <Content Include="MatchMarginColors.pkgdef">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
